@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>RimPedia</MOWiki_Title>
@@ -32,7 +32,7 @@
   <MOWiki_Needs>Braucht</MOWiki_Needs>
   <MOWiki_Contains>Enthält</MOWiki_Contains>
   <MOWiki_Consumes>Wird hier hergestellt aus</MOWiki_Consumes>
-  <MOWiki_RunsAt>Läuft an</MOWiki_RunsAt>
+  <MOWiki_RunsAt>Wo es gemacht wird</MOWiki_RunsAt>
   <MOWiki_NeedsSchematic>Braucht Bauplan</MOWiki_NeedsSchematic>
   <MOWiki_NoSchematic>Kein Bauplan nötig, direkt erforschbar.</MOWiki_NoSchematic>
   <MOWiki_Prerequisites>Setzt Forschung voraus</MOWiki_Prerequisites>
@@ -65,6 +65,16 @@
 
   <!-- Zusätze an einzelnen Zeilen -->
   <MOWiki_Note_Temperature>ideal {0} °C, läuft {1} °C</MOWiki_Note_Temperature>
+  <MOWiki_Note_SafeTemperature>hält zwischen {0} und {1} °C</MOWiki_Note_SafeTemperature>
+  <MOWiki_Pipe_Into>wird zu {0}</MOWiki_Pipe_Into>
+  <MOWiki_Pipe_From>aus {0}</MOWiki_Pipe_From>
+  <MOWiki_Pipe_Net>{0}-Netz</MOWiki_Pipe_Net>
+  <MOWiki_Pipe_Works>Was es verarbeitet</MOWiki_Pipe_Works>
+  <MOWiki_Pipe_Carries>Hängt am {0}-Netz.</MOWiki_Pipe_Carries>
+  <MOWiki_Pipe_Capacity>Fasst</MOWiki_Pipe_Capacity>
+  <MOWiki_Pipe_Draws>Verbrauch je Stunde</MOWiki_Pipe_Draws>
+  <MOWiki_Pipe_Refills>Füllt {0} aus dem Netz nach</MOWiki_Pipe_Refills>
+  <MOWiki_Pipe_Valve>Ventil für das Netz.</MOWiki_Pipe_Valve>
   <MOWiki_Note_OneOf>eines von {0}</MOWiki_Note_OneOf>
   <MOWiki_Note_Draws>{0} Ziehungen</MOWiki_Note_Draws>
   <MOWiki_ShowMore>{0} weitere anzeigen</MOWiki_ShowMore>
@@ -468,6 +478,10 @@
   <MOWiki_Hd_FromSeverity>ab Schwere {0}</MOWiki_Hd_FromSeverity>
   <MOWiki_Hd_Pain>Schmerz</MOWiki_Hd_Pain>
   <MOWiki_Hd_PartEfficiency>Teilleistung</MOWiki_Hd_PartEfficiency>
+  <MOWiki_Hd_SocialFight>Risiko für Streit</MOWiki_Hd_SocialFight>
+  <MOWiki_Hd_RestFall>Müdigkeit</MOWiki_Hd_RestFall>
+  <MOWiki_Hd_Hunger>Hungerrate</MOWiki_Hd_Hunger>
+  <MOWiki_Hd_Reduces>Schwächt {0}</MOWiki_Hd_Reduces>
   <MOWiki_Hd_Behaviour>Wie er sich verhaelt</MOWiki_Hd_Behaviour>
   <MOWiki_Hd_Fades>Verschwindet nach {0}.</MOWiki_Hd_Fades>
   <MOWiki_Hd_Worsens>Verschlechtert sich taeglich um {0} Schwere, wenn nichts geschieht.</MOWiki_Hd_Worsens>
@@ -531,4 +545,31 @@
   <MOWiki_Grows>Waechst in</MOWiki_Grows>
   <MOWiki_MO_OnlyGrown>Nur wenn die Pflanze ausgewachsen ist</MOWiki_MO_OnlyGrown>
   <MOWiki_Mentions>Erwaehnt von</MOWiki_Mentions>
+
+  <MOWiki_Ing_Effects>Wirkung auf den Pawn</MOWiki_Ing_Effects>
+  <MOWiki_Ing_Mood>Stimmung</MOWiki_Ing_Mood>
+  <MOWiki_Ing_Body>Im Körper</MOWiki_Ing_Body>
+  <MOWiki_Ing_Drug>Droge</MOWiki_Ing_Drug>
+  <MOWiki_Ing_Direct>Pur gegessen</MOWiki_Ing_Direct>
+  <MOWiki_Ing_AsIngredient>Als Zutat</MOWiki_Ing_AsIngredient>
+  <MOWiki_Ing_Range>{0} bis {1}</MOWiki_Ing_Range>
+  <MOWiki_Ing_Dose>{0} je Dosis</MOWiki_Ing_Dose>
+  <MOWiki_Ing_Tolerance>Toleranz je Dosis</MOWiki_Ing_Tolerance>
+  <MOWiki_Ing_Psyfocus>Psychofokus</MOWiki_Ing_Psyfocus>
+  <MOWiki_Ing_Hemogen>Hämogen</MOWiki_Ing_Hemogen>
+  <MOWiki_Drug_Kind>Art</MOWiki_Drug_Kind>
+  <MOWiki_Drug_Social>Genussmittel</MOWiki_Drug_Social>
+  <MOWiki_Drug_Hard>Harte Droge</MOWiki_Drug_Hard>
+  <MOWiki_Drug_Medical>Medizin</MOWiki_Drug_Medical>
+  <MOWiki_Drug_Any>Droge</MOWiki_Drug_Any>
+  <MOWiki_Drug_Chemical>Substanz</MOWiki_Drug_Chemical>
+  <MOWiki_Drug_NeedFill>Deckt das Verlangen um</MOWiki_Drug_NeedFill>
+  <MOWiki_Drug_Addict>Suchtgefahr je Dosis</MOWiki_Drug_Addict>
+  <MOWiki_Drug_MinTolerance>Erst ab Toleranz</MOWiki_Drug_MinTolerance>
+  <MOWiki_Drug_PerDose>Bestehende Sucht wächst um</MOWiki_Drug_PerDose>
+  <MOWiki_Drug_NoAddict>macht nicht süchtig</MOWiki_Drug_NoAddict>
+  <MOWiki_Drug_Overdose>Überdosis je Dosis</MOWiki_Drug_Overdose>
+  <MOWiki_Drug_BigOverdose>Risiko schwerer Überdosis</MOWiki_Drug_BigOverdose>
+  <MOWiki_Drug_Combat>Wird vor Kämpfen genommen</MOWiki_Drug_Combat>
+  <MOWiki_Drug_Hint>Eine neue Sucht entsteht erst über {0} Toleranz und dann nur bei {1} der Dosen.</MOWiki_Drug_Hint>
 </LanguageData>

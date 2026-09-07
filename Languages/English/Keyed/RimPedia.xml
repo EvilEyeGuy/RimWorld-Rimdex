@@ -11,6 +11,31 @@
   <MOWiki_Browse_Buildings>Buildings</MOWiki_Browse_Buildings>
   <MOWiki_Browse_Animals>Animals</MOWiki_Browse_Animals>
   <MOWiki_Browse_Pawns>Pawns</MOWiki_Browse_Pawns>
+  <MOWiki_Browse_Pinned>Pinned</MOWiki_Browse_Pinned>
+  <MOWiki_Browse_Honors>Honors</MOWiki_Browse_Honors>
+  <MOWiki_Page_Honor>Honor</MOWiki_Page_Honor>
+  <MOWiki_Honor_Value>Honor value</MOWiki_Honor_Value>
+  <MOWiki_Honor_TitheSpeed>Tithe speed</MOWiki_Honor_TitheSpeed>
+  <MOWiki_Honor_NoRust>Protects skill</MOWiki_Honor_NoRust>
+  <MOWiki_Honor_Hostile>Also from hostile factions</MOWiki_Honor_Hostile>
+  <MOWiki_Honor_Effects>What it does</MOWiki_Honor_Effects>
+  <MOWiki_Honor_Mood>{0} mood</MOWiki_Honor_Mood>
+  <MOWiki_Honor_Opinion>{0} opinion</MOWiki_Honor_Opinion>
+  <MOWiki_Honor_NoblesOnly>nobles only</MOWiki_Honor_NoblesOnly>
+  <MOWiki_Honor_Others>others about them</MOWiki_Honor_Others>
+  <MOWiki_Honor_Tithes>Speeds up these tithes</MOWiki_Honor_Tithes>
+  <MOWiki_Honor_Speeds>Sped up by</MOWiki_Honor_Speeds>
+  <MOWiki_Kind_Tithe>Imperial tithe</MOWiki_Kind_Tithe>
+  <MOWiki_Kind_Assembled>Fitted at</MOWiki_Kind_Assembled>
+  <MOWiki_MadeFrom>Made from</MOWiki_MadeFrom>
+  <MOWiki_WhileWorn>While worn</MOWiki_WhileWorn>
+  <MOWiki_WhileEquipped>While equipped</MOWiki_WhileEquipped>
+  <MOWiki_Title_Court>Court it needs</MOWiki_Title_Court>
+  <MOWiki_Title_CourtRange>{0} to {1}</MOWiki_Title_CourtRange>
+  <MOWiki_Title_Hierarchy>in the hierarchy</MOWiki_Title_Hierarchy>
+  <MOWiki_Title_Vassalage>Vassalage points</MOWiki_Title_Vassalage>
+  <MOWiki_Pin>Pin this page</MOWiki_Pin>
+  <MOWiki_Unpin>Unpin this page</MOWiki_Unpin>
 
   <!-- What kind of page this is -->
   <MOWiki_Page_Item>Item</MOWiki_Page_Item>
@@ -100,6 +125,13 @@
   <MOWiki_Kind_TraderBuys>Bought by</MOWiki_Kind_TraderBuys>
   <MOWiki_Kind_Building>Construction</MOWiki_Kind_Building>
   <MOWiki_Kind_CostList>Crafting cost</MOWiki_Kind_CostList>
+  <MOWiki_Kind_Yield>Produced by</MOWiki_Kind_Yield>
+  <MOWiki_Kind_Outpost>Outpost</MOWiki_Kind_Outpost>
+  <MOWiki_Kind_Matures>Matures from</MOWiki_Kind_Matures>
+  <MOWiki_Yield_Every>every {0} days</MOWiki_Yield_Every>
+  <MOWiki_Yield_Daily>daily</MOWiki_Yield_Daily>
+  <MOWiki_Yield_EveryRange>every {0} to {1} days</MOWiki_Yield_EveryRange>
+  <MOWiki_Yield_Hatch>hatches after {0} days</MOWiki_Yield_Hatch>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->

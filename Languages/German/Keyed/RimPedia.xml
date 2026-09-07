@@ -11,6 +11,31 @@
   <MOWiki_Browse_Buildings>Gebäude</MOWiki_Browse_Buildings>
   <MOWiki_Browse_Animals>Tiere</MOWiki_Browse_Animals>
   <MOWiki_Browse_Pawns>Pawns</MOWiki_Browse_Pawns>
+  <MOWiki_Browse_Pinned>Angeheftet</MOWiki_Browse_Pinned>
+  <MOWiki_Browse_Honors>Ehren</MOWiki_Browse_Honors>
+  <MOWiki_Page_Honor>Ehre</MOWiki_Page_Honor>
+  <MOWiki_Honor_Value>Ehrenwert</MOWiki_Honor_Value>
+  <MOWiki_Honor_TitheSpeed>Abgabentempo</MOWiki_Honor_TitheSpeed>
+  <MOWiki_Honor_NoRust>Schützt Fertigkeit</MOWiki_Honor_NoRust>
+  <MOWiki_Honor_Hostile>Auch von feindlichen Fraktionen</MOWiki_Honor_Hostile>
+  <MOWiki_Honor_Effects>Was sie bewirkt</MOWiki_Honor_Effects>
+  <MOWiki_Honor_Mood>{0} Stimmung</MOWiki_Honor_Mood>
+  <MOWiki_Honor_Opinion>{0} Meinung</MOWiki_Honor_Opinion>
+  <MOWiki_Honor_NoblesOnly>nur Adelige</MOWiki_Honor_NoblesOnly>
+  <MOWiki_Honor_Others>andere über ihn</MOWiki_Honor_Others>
+  <MOWiki_Honor_Tithes>Beschleunigt diese Abgaben</MOWiki_Honor_Tithes>
+  <MOWiki_Honor_Speeds>Beschleunigt durch</MOWiki_Honor_Speeds>
+  <MOWiki_Kind_Tithe>Abgabe ans Imperium</MOWiki_Kind_Tithe>
+  <MOWiki_Kind_Assembled>Angefertigt an</MOWiki_Kind_Assembled>
+  <MOWiki_MadeFrom>Hergestellt aus</MOWiki_MadeFrom>
+  <MOWiki_WhileWorn>Beim Tragen</MOWiki_WhileWorn>
+  <MOWiki_WhileEquipped>In der Hand</MOWiki_WhileEquipped>
+  <MOWiki_Title_Court>Hofstaat, den er braucht</MOWiki_Title_Court>
+  <MOWiki_Title_CourtRange>{0} bis {1}</MOWiki_Title_CourtRange>
+  <MOWiki_Title_Hierarchy>in der Rangfolge</MOWiki_Title_Hierarchy>
+  <MOWiki_Title_Vassalage>Vasallenpunkte</MOWiki_Title_Vassalage>
+  <MOWiki_Pin>Seite anheften</MOWiki_Pin>
+  <MOWiki_Unpin>Nicht mehr anheften</MOWiki_Unpin>
 
   <!-- Was fuer eine Seite das ist -->
   <MOWiki_Page_Item>Gegenstand</MOWiki_Page_Item>
@@ -100,6 +125,13 @@
   <MOWiki_Kind_TraderBuys>Wird angekauft von</MOWiki_Kind_TraderBuys>
   <MOWiki_Kind_Building>Bau</MOWiki_Kind_Building>
   <MOWiki_Kind_CostList>Herstellung</MOWiki_Kind_CostList>
+  <MOWiki_Kind_Yield>Kommt von</MOWiki_Kind_Yield>
+  <MOWiki_Kind_Outpost>Außenposten</MOWiki_Kind_Outpost>
+  <MOWiki_Kind_Matures>Reift aus</MOWiki_Kind_Matures>
+  <MOWiki_Yield_Every>alle {0} Tage</MOWiki_Yield_Every>
+  <MOWiki_Yield_Daily>täglich</MOWiki_Yield_Daily>
+  <MOWiki_Yield_EveryRange>alle {0} bis {1} Tage</MOWiki_Yield_EveryRange>
+  <MOWiki_Yield_Hatch>schlüpft nach {0} Tagen</MOWiki_Yield_Hatch>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->

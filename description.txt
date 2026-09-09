@@ -64,6 +64,8 @@ Two knives, same shape, different steel. Which one do you actually want your smi
 
 Open an item, hit the bars next to the pin, and it lands in the comparison. Add up to four things with the plus. Every column has its own stuff and its own quality, and the same item may go in twice, so you can put plasteel next to steel, or normal next to masterwork.
 
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/09_compare_button.png?v=1[/img]
+
 [img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/06_compare_one.png?v=1[/img]
 
 The table is built from the things themselves. A value only shows up when the item really carries it or when it differs from the default, so a knife no longer explains its hunger rate. Damage and armor penetration of a gun are in there as well, even though the game hides them inside the projectile.

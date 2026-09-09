@@ -1,1 +1,1 @@
-My Workshop images for RimPedia.
+My Workshop images for Rimdex.

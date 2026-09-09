@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>RimPedia</name>
+  <name>Rimdex</name>
   <author>Evil Eye Guy</author>
-  <packageId>EvilEyeGuy.RimPedia</packageId>
+  <packageId>EvilEyeGuy.Rimdex</packageId>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
-  <description>RimPedia is a dynamic in game encyclopedia for RimWorld.
+  <description>Rimdex is a dynamic in game encyclopedia for RimWorld.
 
-It builds its pages from the mods you currently have loaded. If your mod list changes, RimPedia changes too.
+It builds its pages from the mods you currently have loaded. If your mod list changes, Rimdex changes too.
 
-RimPedia links many parts of the game together and helps answer two common questions: where does this come from, and what is it used for.
+Rimdex links many parts of the game together and helps answer two common questions: where does this come from, and what is it used for.
 
 It can show things like recipes, processing, stats, research unlocks, schematics, techprints, pawn data, faction data, quests, health conditions, traits, backstories and more.
 
 Most normal Def based content is picked up automatically. Some custom mechanics use custom mod extensions or special code and may need extra support.
 
-RimPedia was originally made for Medieval Overhaul, so it also supports several of its custom mechanics, such as monster drops, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
+Rimdex was originally made for Medieval Overhaul, so it also supports several of its custom mechanics, such as monster drops, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
 
-The index is built the first time you open RimPedia. It is not built during startup. If you never open it, it does no work.
+The index is built the first time you open Rimdex. It is not built during startup. If you never open it, it does no work.
 
 Open it with the book button in the bottom right toggle row.</description>
   <modDependencies>

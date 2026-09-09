@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MOWiki_Title>RimPedia</MOWiki_Title>
-  <MOWiki_ButtonTip>RimPedia - woher Dinge kommen und wofuer sie da sind</MOWiki_ButtonTip>
+  <MOWiki_Title>Rimdex</MOWiki_Title>
+  <MOWiki_ButtonTip>Rimdex - woher Dinge kommen und wofuer sie da sind</MOWiki_ButtonTip>
   <MOWiki_Count>{0} von {1}</MOWiki_Count>
 
   <!-- Filter der linken Spalte -->
@@ -209,7 +209,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_Kind_Corpse>Leiche von</MOWiki_Kind_Corpse>
   <MOWiki_Home>Start</MOWiki_Home>
-  <MOWiki_HomeIntro>RimPedia wird aus den Defs gebaut, die in deinem Spiel tatsächlich geladen sind. Jeder Eintrag beantwortet die zwei Fragen, die das Spiel selbst nicht beantwortet: woher kommt das, und wofür ist es gut. Mit Drop-Chancen, Fund-Prozenten, Verarbeitungszeiten und Forschungssperren.</MOWiki_HomeIntro>
+  <MOWiki_HomeIntro>Rimdex wird aus den Defs gebaut, die in deinem Spiel tatsächlich geladen sind. Jeder Eintrag beantwortet die zwei Fragen, die das Spiel selbst nicht beantwortet: woher kommt das, und wofür ist es gut. Mit Drop-Chancen, Fund-Prozenten, Verarbeitungszeiten und Forschungssperren.</MOWiki_HomeIntro>
   <MOWiki_HomeContents>Inhalt</MOWiki_HomeContents>
   <MOWiki_HomeHints>So funktioniert es</MOWiki_HomeHints>
   <MOWiki_HomeHint1>Suche nach Name oder defName, oder grenze die Liste mit den Kategorie-Knöpfen ein.</MOWiki_HomeHint1>
@@ -332,7 +332,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AppearsIn>Erscheint in</MOWiki_AppearsIn>
   <MOWiki_Xenotypes>Xenotypen</MOWiki_Xenotypes>
-  <MOWiki_OpenRimPedia>In RimPedia oeffnen</MOWiki_OpenRimPedia>
+  <MOWiki_OpenRimPedia>In Rimdex oeffnen</MOWiki_OpenRimPedia>
 
   <MOWiki_TraderBase>Siedlung: {0}</MOWiki_TraderBase>
   <MOWiki_TraderVisitor>Besucher: {0}</MOWiki_TraderVisitor>
@@ -378,8 +378,8 @@
   <MOWiki_MO_UnlockedBy>Braucht eine verbundene {0}</MOWiki_MO_UnlockedBy>
   <MOWiki_MO_UnlockedByMany>Braucht {0} verbundene Gebaeude, eines davon {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat-Extended-Werte</MOWiki_CE_Values>
-  <MOWiki_BuildingStart>RimPedia liest deine Mods...</MOWiki_BuildingStart>
-  <MOWiki_Building>RimPedia: Schritt {0} von {1}, {2}</MOWiki_Building>
+  <MOWiki_BuildingStart>Rimdex liest deine Mods...</MOWiki_BuildingStart>
+  <MOWiki_Building>Rimdex: Schritt {0} von {1}, {2}</MOWiki_Building>
   <MOWiki_NoSource>Kein geladener Def stellt das her. Es kann aus einem Ereignis, einer Questbelohnung oder dem Spielcode selbst stammen.</MOWiki_NoSource>
   <MOWiki_Kind_Extract>Schädel entnehmen</MOWiki_Kind_Extract>
   <MOWiki_Kind_Deconstruct>Abbauen</MOWiki_Kind_Deconstruct>
@@ -604,4 +604,17 @@
   <MOWiki_Drug_BigOverdose>Risiko schwerer Überdosis</MOWiki_Drug_BigOverdose>
   <MOWiki_Drug_Combat>Wird vor Kämpfen genommen</MOWiki_Drug_Combat>
   <MOWiki_Drug_Hint>Eine neue Sucht entsteht erst über {0} Toleranz und dann nur bei {1} der Dosen.</MOWiki_Drug_Hint>
+  <MOWiki_Compare_Title>Vergleich</MOWiki_Compare_Title>
+  <MOWiki_Compare_Tip>In den Vergleich stellen</MOWiki_Compare_Tip>
+  <MOWiki_Compare_Add>Gegenstand hinzufuegen</MOWiki_Compare_Add>
+  <MOWiki_Compare_Remove>Entfernen</MOWiki_Compare_Remove>
+  <MOWiki_Compare_Clear>Leeren</MOWiki_Compare_Clear>
+  <MOWiki_Compare_OnlyDiff>Nur Unterschiede</MOWiki_Compare_OnlyDiff>
+  <MOWiki_Compare_Empty>Oben mit dem Plus Gegenstaende hinzufuegen. Gruen zeigt den besten Wert einer Zeile, rot den schlechtesten.</MOWiki_Compare_Empty>
+  <MOWiki_Compare_Full>Platz fuer {0} Gegenstaende</MOWiki_Compare_Full>
+  <MOWiki_Compare_Costs>Was es kostet</MOWiki_Compare_Costs>
+  <MOWiki_Compare_Stuff>Baustoff</MOWiki_Compare_Stuff>
+  <MOWiki_Compare_Other>Weitere Werte</MOWiki_Compare_Other>
+  <MOWiki_Compare_Shot>Was es verschiesst</MOWiki_Compare_Shot>
+  <MOWiki_Sort_None>Sortierung</MOWiki_Sort_None>
 </LanguageData>

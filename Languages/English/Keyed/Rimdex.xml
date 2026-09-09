@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MOWiki_Title>RimPedia</MOWiki_Title>
-  <MOWiki_ButtonTip>RimPedia - where things come from and what they are for</MOWiki_ButtonTip>
+  <MOWiki_Title>Rimdex</MOWiki_Title>
+  <MOWiki_ButtonTip>Rimdex - where things come from and what they are for</MOWiki_ButtonTip>
   <MOWiki_Count>{0} of {1}</MOWiki_Count>
 
   <!-- Left column filters -->
@@ -332,7 +332,7 @@
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AppearsIn>Appears in</MOWiki_AppearsIn>
   <MOWiki_Xenotypes>Xenotypes</MOWiki_Xenotypes>
-  <MOWiki_OpenRimPedia>Open in RimPedia</MOWiki_OpenRimPedia>
+  <MOWiki_OpenRimPedia>Open in Rimdex</MOWiki_OpenRimPedia>
 
   <MOWiki_TraderBase>{0} settlement</MOWiki_TraderBase>
   <MOWiki_TraderVisitor>{0} visitors</MOWiki_TraderVisitor>
@@ -378,8 +378,8 @@
   <MOWiki_MO_UnlockedBy>Needs a linked {0}</MOWiki_MO_UnlockedBy>
   <MOWiki_MO_UnlockedByMany>Needs {0} linked buildings, one of them a {1}</MOWiki_MO_UnlockedByMany>
   <MOWiki_CE_Values>Combat Extended values</MOWiki_CE_Values>
-  <MOWiki_BuildingStart>RimPedia is reading your mods...</MOWiki_BuildingStart>
-  <MOWiki_Building>RimPedia: step {0} of {1}, {2}</MOWiki_Building>
+  <MOWiki_BuildingStart>Rimdex is reading your mods...</MOWiki_BuildingStart>
+  <MOWiki_Building>Rimdex: step {0} of {1}, {2}</MOWiki_Building>
   <MOWiki_NoSource>No loaded def produces this. It may come from an event, a quest reward, or the game's own code.</MOWiki_NoSource>
   <MOWiki_Kind_Extract>Skull extraction</MOWiki_Kind_Extract>
   <MOWiki_Kind_Deconstruct>Deconstructing</MOWiki_Kind_Deconstruct>
@@ -604,4 +604,17 @@
   <MOWiki_Drug_BigOverdose>Risk of a severe overdose</MOWiki_Drug_BigOverdose>
   <MOWiki_Drug_Combat>Taken before a fight</MOWiki_Drug_Combat>
   <MOWiki_Drug_Hint>A new addiction can only start above {0} tolerance, and even then only on {1} of the doses.</MOWiki_Drug_Hint>
+  <MOWiki_Compare_Title>Comparison</MOWiki_Compare_Title>
+  <MOWiki_Compare_Tip>Put this into the comparison</MOWiki_Compare_Tip>
+  <MOWiki_Compare_Add>Add an item</MOWiki_Compare_Add>
+  <MOWiki_Compare_Remove>Remove</MOWiki_Compare_Remove>
+  <MOWiki_Compare_Clear>Clear</MOWiki_Compare_Clear>
+  <MOWiki_Compare_OnlyDiff>Only differences</MOWiki_Compare_OnlyDiff>
+  <MOWiki_Compare_Empty>Use the plus above to add items. Green points to the best value in a row, red to the worst.</MOWiki_Compare_Empty>
+  <MOWiki_Compare_Full>Room for {0} items</MOWiki_Compare_Full>
+  <MOWiki_Compare_Costs>What it costs</MOWiki_Compare_Costs>
+  <MOWiki_Compare_Stuff>Stuff</MOWiki_Compare_Stuff>
+  <MOWiki_Compare_Other>Other values</MOWiki_Compare_Other>
+  <MOWiki_Compare_Shot>What it fires</MOWiki_Compare_Shot>
+  <MOWiki_Sort_None>Sort by</MOWiki_Sort_None>
 </LanguageData>

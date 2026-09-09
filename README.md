@@ -1,12 +1,12 @@
-# RimPedia
+# Rimdex
 
-![RimPedia](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/preview.png?v=4)
+![Rimdex](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/preview.png?v=4)
 
 A dynamic in-game encyclopedia that connects items, creatures, recipes, research,
 workbenches and more across your loaded mods. On a normal medieval modlist that
 comes to around 8000 pages.
 
-RimPedia was originally built for
+Rimdex was originally built for
 [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926),
 where the same questions kept coming up. Where does this come from, how is it
 processed, what is a golem corpse good for. The answers now come out of the
@@ -22,7 +22,7 @@ to the ruin that schematic drops in and the odds of finding it there.
 
 ## What a page shows
 
-![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=3)
+![What a page shows](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/02_what_it_shows.png?v=3)
 
 1. Search by name or def name
 2. Filter the list by category, by mod, or by where something comes from
@@ -74,7 +74,7 @@ uncover on a click. You can turn that off in the mod settings.
 
 ## Two views
 
-![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=5)
+![Two views](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/03_two_views.png?v=5)
 
 1. The full view shows the whole page
 2. The compact view is a small panel you can leave open while playing. It
@@ -90,11 +90,11 @@ disappears without saying so.
 
 Anything built from a material carries a picker. Choose granite instead of wood
 and the market value, the mass, the hit points, the beauty and the work all
-follow. Opening RimPedia from something on your map sets the material for you.
+follow. Opening Rimdex from something on your map sets the material for you.
 
 ## Where to open it
 
-![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=5)
+![Where to open it](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/04_where_to_open.png?v=5)
 
 1. The book button in the bottom right toggle row
 2. The button beside the info button when something is selected
@@ -109,7 +109,7 @@ have installed, so it stays correct when they update and it covers modded conten
 the same way it covers vanilla.
 
 Most normal Def based content is picked up automatically. Some mods carry their
-own mod extensions or special code. RimPedia reads those too and links what
+own mod extensions or special code. Rimdex reads those too and links what
 belongs together, but it cannot always tell what a mechanic means, so a few mods
 may need extra support for certain mechanics. If a mod is missing something
 important, open an issue and I can have a look.
@@ -125,7 +125,7 @@ ammunition type the weapon fires with its armour penetration.
 
 ## Performance
 
-![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=2)
+![Performance](https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/05_performance.png?v=2)
 
 Nothing is built while the game starts. The index is put together the first time
 you open the window in a session, with a progress bar, and on a big mod list that
@@ -141,14 +141,14 @@ refreshes every few seconds and does not register.
 
 ## FAQ
 
-**Does RimPedia require Medieval Overhaul?**
+**Does Rimdex require Medieval Overhaul?**
 No. It works with any mod list.
 
 **Does it spoil ruins?**
 Floor plans are blurred by default.
 
 **Does it slow down startup?**
-No. The index is built when you open RimPedia.
+No. The index is built when you open Rimdex.
 
 **What if a mechanic is missing?**
 Open an issue and I can look into it.

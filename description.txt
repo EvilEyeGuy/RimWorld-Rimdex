@@ -1,16 +1,16 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h1_intro.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h1_intro.png?v=2[/img]
 
-RimPedia is a dynamic in game encyclopedia for RimWorld.
+Rimdex is a dynamic in game encyclopedia for RimWorld.
 
-It builds its pages from the mods you currently have loaded. If your mod list changes, RimPedia changes too.
+It builds its pages from the mods you currently have loaded. If your mod list changes, Rimdex changes too.
 
-RimPedia was originally made for Medieval Overhaul. It was made because people kept asking the same questions. Where does this item come from? What is this corpse used for? How do I unlock this research? RimPedia tries to answer these questions directly in game.
+Rimdex was originally made for Medieval Overhaul. It was made because people kept asking the same questions. Where does this item come from? What is this corpse used for? How do I unlock this research? Rimdex tries to answer these questions directly in game.
 
 It is not limited to Medieval Overhaul. It works with any mod list. Medieval Overhaul just has some extra support because that is where the project started.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h2_page.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h2_page.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/02_what_it_shows.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/02_what_it_shows.png?v=4[/img]
 
 [olist]
 [*]Search by name or def name
@@ -24,7 +24,7 @@ It is not limited to Medieval Overhaul. It works with any mod list. Medieval Ove
 
 Most pages answer two simple questions. Where does this come from, and what is it used for. Entries are linked to each other, so you can follow a chain step by step. For example, from a research project to its required schematic, and from that schematic to the ruin where it can be found.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h3_covers.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h3_covers.png?v=2[/img]
 
 [list]
 [*]Items, buildings, plants and materials: recipes, processing, harvesting, mining, smelting, stats and build costs
@@ -35,9 +35,9 @@ Most pages answer two simple questions. Where does this come from, and what is i
 [*]Health conditions with their stages, causes and cures, traits and backstories
 [/list]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h4_views.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h4_views.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/03_two_views.png?v=5[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/03_two_views.png?v=6[/img]
 
 [olist]
 [*]The full view shows the whole page
@@ -46,9 +46,9 @@ Most pages answer two simple questions. Where does this come from, and what is i
 
 The button in the top right switches between them, and the game remembers which one you selected.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h5_open.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h5_open.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/04_where_to_open.png?v=5[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/04_where_to_open.png?v=6[/img]
 
 [olist]
 [*]The book button in the bottom right toggle row
@@ -58,27 +58,47 @@ The button in the top right switches between them, and the game remembers which 
 
 The window also remembers the last page you opened.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h6_works.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h11_comparison.png?v=2[/img]
 
-RimPedia works with vanilla, DLC content and modded content.
+Two knives, same shape, different steel. Which one do you actually want your smith to make?
+
+Open an item, hit the bars next to the pin, and it lands in the comparison. Add up to four things with the plus. Every column has its own stuff and its own quality, and the same item may go in twice, so you can put plasteel next to steel, or normal next to masterwork.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/06_compare_one.png?v=2[/img]
+
+The table is built from the things themselves. A value only shows up when the item really carries it or when it differs from the default, so a knife no longer explains its hunger rate. Damage and armor penetration of a gun are in there as well, even though the game hides them inside the projectile.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/07_compare_material.png?v=2[/img]
+
+Green marks the best value in a row, red the worst. What it costs is part of the table, so you see the price of the better numbers right away.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/08_compare_quality.png?v=2[/img]
+
+Only differences hides every row where all columns agree. What is left is the reason to pick one over the other.
+
+While you are in the list, you can also sort it. Pick a value in the left column and the list reorders itself, highest armor penetration first, or lightest apparel, or cheapest to make. What you can sort by depends on what is in the list, modded values included.
+
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h6_works.png?v=2[/img]
+
+Rimdex works with vanilla, DLC content and modded content.
 
 Most normal Def based content is picked up automatically. This includes things like items, recipes, research, buildings, traders and many other common systems.
 
-Some custom mechanics use their own custom mod extensions or other special code. RimPedia reads those too and links what belongs together, but it cannot always tell what a mechanic means. Because of that, some mods may need extra support for certain mechanics. Luckily, this is not needed very often.
+Some custom mechanics use their own custom mod extensions or other special code. Rimdex reads those too and links what belongs together, but it cannot always tell what a mechanic means. Because of that, some mods may need extra support for certain mechanics. Luckily, this is not needed very often.
 
 If a mod is missing something important, please tell me. I can have a look and maybe add support for it.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h7_reads.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h7_reads.png?v=2[/img]
 
 A page can show if something comes from Core, Royalty, Ideology, Biotech, Anomaly, Odyssey or from a mod.
 
-For Medieval Overhaul, RimPedia also reads several custom mechanics that are not easy to see in normal gameplay. This includes things like monster drop chances, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
+For Medieval Overhaul, Rimdex also reads several custom mechanics that are not easy to see in normal gameplay. This includes things like monster drop chances, loot chances, schematic requirements, mimic containers and Explorer's Workbench discoveries.
 
 Ruins and hideouts are shown as floor plans, and different layouts are shown as separate tabs. Because this can spoil what is inside, floor plans start blurred by default. You can reveal them with a click or disable the blur in the mod settings.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h8_performance.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h8_performance.png?v=2[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/05_performance.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/05_performance.png?v=3[/img]
 
 Measured with Dubs Performance Analyzer on a paused colony, on the heaviest page in the list, at the same window size as the vanilla tabs.
 
@@ -86,25 +106,25 @@ Nothing is built while the game starts. The index is put together the first time
 
 With the heaviest page open, drawing costs about 1 ms per frame. The compact view costs a lot less and can stay open next to the game.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h9_faq.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h9_faq.png?v=2[/img]
 
-[b]Does RimPedia require Medieval Overhaul?[/b]
+[b]Does Rimdex require Medieval Overhaul?[/b]
 No. It works with any mod list.
 
 [b]Does it spoil ruins?[/b]
 Floor plans are blurred by default.
 
 [b]Does it slow down startup?[/b]
-No. The index is built when you open RimPedia.
+No. The index is built when you open Rimdex.
 
 [b]What if a mechanic is missing?[/b]
 Tell me and I can look into it.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-RimPedia/workshop/h10_credits.png?v=1[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h10_credits.png?v=2[/img]
 
 Code and art: Evil Eye Guy
 
 Requires Harmony. Nothing else.
 
 Source and issue tracker:
-[url=https://github.com/EvilEyeGuy/RimWorld-RimPedia]github.com/EvilEyeGuy/RimWorld-RimPedia[/url]
+[url=https://github.com/EvilEyeGuy/RimWorld-Rimdex]github.com/EvilEyeGuy/RimWorld-Rimdex[/url]

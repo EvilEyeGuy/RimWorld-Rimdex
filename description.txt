@@ -1,4 +1,4 @@
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h1_intro.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h1_intro.png?v=1[/img]
 
 Rimdex is a dynamic in game encyclopedia for RimWorld.
 
@@ -8,9 +8,9 @@ Rimdex was originally made for Medieval Overhaul. It was made because people kep
 
 It is not limited to Medieval Overhaul. It works with any mod list. Medieval Overhaul just has some extra support because that is where the project started.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h2_page.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h2_page.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/02_what_it_shows.png?v=4[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/02_what_it_shows.png?v=3[/img]
 
 [olist]
 [*]Search by name or def name
@@ -35,9 +35,9 @@ Most pages answer two simple questions. Where does this come from, and what is i
 [*]Health conditions with their stages, causes and cures, traits and backstories
 [/list]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h4_views.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h4_views.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/03_two_views.png?v=6[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/03_two_views.png?v=5[/img]
 
 [olist]
 [*]The full view shows the whole page
@@ -46,9 +46,9 @@ Most pages answer two simple questions. Where does this come from, and what is i
 
 The button in the top right switches between them, and the game remembers which one you selected.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h5_open.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h5_open.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/04_where_to_open.png?v=6[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/04_where_to_open.png?v=5[/img]
 
 [olist]
 [*]The book button in the bottom right toggle row
@@ -58,27 +58,27 @@ The button in the top right switches between them, and the game remembers which 
 
 The window also remembers the last page you opened.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h11_comparison.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h11_comparison.png?v=1[/img]
 
 Two knives, same shape, different steel. Which one do you actually want your smith to make?
 
 Open an item, hit the bars next to the pin, and it lands in the comparison. Add up to four things with the plus. Every column has its own stuff and its own quality, and the same item may go in twice, so you can put plasteel next to steel, or normal next to masterwork.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/06_compare_one.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/06_compare_one.png?v=1[/img]
 
 The table is built from the things themselves. A value only shows up when the item really carries it or when it differs from the default, so a knife no longer explains its hunger rate. Damage and armor penetration of a gun are in there as well, even though the game hides them inside the projectile.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/07_compare_material.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/07_compare_material.png?v=1[/img]
 
 Green marks the best value in a row, red the worst. What it costs is part of the table, so you see the price of the better numbers right away.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/08_compare_quality.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/08_compare_quality.png?v=1[/img]
 
 Only differences hides every row where all columns agree. What is left is the reason to pick one over the other.
 
 While you are in the list, you can also sort it. Pick a value in the left column and the list reorders itself, highest armor penetration first, or lightest apparel, or cheapest to make. What you can sort by depends on what is in the list, modded values included.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h6_works.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h6_works.png?v=1[/img]
 
 Rimdex works with vanilla, DLC content and modded content.
 
@@ -96,17 +96,17 @@ For Medieval Overhaul, Rimdex also reads several custom mechanics that are not e
 
 Ruins and hideouts are shown as floor plans, and different layouts are shown as separate tabs. Because this can spoil what is inside, floor plans start blurred by default. You can reveal them with a click or disable the blur in the mod settings.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h8_performance.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h8_performance.png?v=1[/img]
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/05_performance.png?v=3[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/05_performance.png?v=2[/img]
 
 Measured with Dubs Performance Analyzer on a paused colony, on the heaviest page in the list, at the same window size as the vanilla tabs.
 
-Nothing is built while the game starts. The index is put together the first time you open the window in a session, with a progress bar, and on a big mod list that takes a moment. Every time after that it opens instantly. If you never open it, that work never happens at all.
+Nothing is built while the game starts. The index is put together the first time you open the window in a session, with a progress bar, and on a big mod list that takes a moment. After the index is built once, opening it again is instant for the rest of the session.
 
-With the heaviest page open, drawing costs about 1 ms per frame. The compact view costs a lot less and can stay open next to the game.
+With the heaviest page open, drawing cost is about 1 ms per frame. The compact view costs much less and can usually be left open without problems.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h9_faq.png?v=2[/img]
+[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h9_faq.png?v=1[/img]
 
 [b]Does Rimdex require Medieval Overhaul?[/b]
 No. It works with any mod list.
@@ -120,11 +120,5 @@ No. The index is built when you open Rimdex.
 [b]What if a mechanic is missing?[/b]
 Tell me and I can look into it.
 
-[img]https://raw.githubusercontent.com/EvilEyeGuy/RimWorld-Rimdex/workshop/h10_credits.png?v=2[/img]
-
-Code and art: Evil Eye Guy
-
-Requires Harmony. Nothing else.
-
-Source and issue tracker:
+[b]Github?[/b]
 [url=https://github.com/EvilEyeGuy/RimWorld-Rimdex]github.com/EvilEyeGuy/RimWorld-Rimdex[/url]

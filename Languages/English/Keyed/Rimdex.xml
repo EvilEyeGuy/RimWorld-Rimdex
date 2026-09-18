@@ -617,4 +617,22 @@
   <MOWiki_Compare_Other>Other values</MOWiki_Compare_Other>
   <MOWiki_Compare_Shot>What it fires</MOWiki_Compare_Shot>
   <MOWiki_Sort_None>Sort by</MOWiki_Sort_None>
+  <MOWiki_Spawn>Spawn</MOWiki_Spawn>
+  <MOWiki_Spawn_Stack>Spawn stack</MOWiki_Spawn_Stack>
+  <MOWiki_Spawn_Tool>Place {0}</MOWiki_Spawn_Tool>
+  <MOWiki_Quality_Label>Quality</MOWiki_Quality_Label>
+  <MOWiki_Stat_DPS>Damage per second</MOWiki_Stat_DPS>
+  <MOWiki_Spawn_Own>Own faction</MOWiki_Spawn_Own>
+  <MOWiki_Chain_Takes>What it takes</MOWiki_Chain_Takes>
+  <MOWiki_Chain_Sum>Raw materials for one</MOWiki_Chain_Sum>
+  <MOWiki_Chain_Steps>{0} work steps</MOWiki_Chain_Steps>
+  <MOWiki_Chain_Research>needs research: {0}</MOWiki_Chain_Research>
+  <MOWiki_Chain_Raw>gathered</MOWiki_Chain_Raw>
+  <MOWiki_Chain_Title>Chain of {0}</MOWiki_Chain_Title>
+  <MOWiki_Chain_Up>Where it comes from</MOWiki_Chain_Up>
+  <MOWiki_Chain_Down>What it turns into</MOWiki_Chain_Down>
+  <MOWiki_Chain_Follow>Click to follow the chain from here</MOWiki_Chain_Follow>
+  <MOWiki_Chain_Empty>Nothing to follow from here.</MOWiki_Chain_Empty>
+  <MOWiki_Work_Type>Worked by</MOWiki_Work_Type>
+  <MOWiki_Work_Skill>Skill used</MOWiki_Work_Skill>
 </LanguageData>

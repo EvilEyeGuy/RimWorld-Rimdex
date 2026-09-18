@@ -617,4 +617,22 @@
   <MOWiki_Compare_Other>Weitere Werte</MOWiki_Compare_Other>
   <MOWiki_Compare_Shot>Was es verschiesst</MOWiki_Compare_Shot>
   <MOWiki_Sort_None>Sortierung</MOWiki_Sort_None>
+  <MOWiki_Spawn>Setzen</MOWiki_Spawn>
+  <MOWiki_Spawn_Stack>Stapel setzen</MOWiki_Spawn_Stack>
+  <MOWiki_Spawn_Tool>{0} setzen</MOWiki_Spawn_Tool>
+  <MOWiki_Quality_Label>Guete</MOWiki_Quality_Label>
+  <MOWiki_Stat_DPS>Schaden pro Sekunde</MOWiki_Stat_DPS>
+  <MOWiki_Spawn_Own>Eigene Fraktion</MOWiki_Spawn_Own>
+  <MOWiki_Chain_Takes>Was es braucht</MOWiki_Chain_Takes>
+  <MOWiki_Chain_Sum>Rohstoffe fuer ein Stueck</MOWiki_Chain_Sum>
+  <MOWiki_Chain_Steps>{0} Arbeitsschritte</MOWiki_Chain_Steps>
+  <MOWiki_Chain_Research>braucht Forschung: {0}</MOWiki_Chain_Research>
+  <MOWiki_Chain_Raw>wird gewonnen</MOWiki_Chain_Raw>
+  <MOWiki_Chain_Title>Kette von {0}</MOWiki_Chain_Title>
+  <MOWiki_Chain_Up>Woraus es entsteht</MOWiki_Chain_Up>
+  <MOWiki_Chain_Down>Was daraus wird</MOWiki_Chain_Down>
+  <MOWiki_Chain_Follow>Klick verfolgt die Kette von hier aus</MOWiki_Chain_Follow>
+  <MOWiki_Chain_Empty>Von hier aus geht es nicht weiter.</MOWiki_Chain_Empty>
+  <MOWiki_Work_Type>Arbeitsart</MOWiki_Work_Type>
+  <MOWiki_Work_Skill>Faehigkeit</MOWiki_Work_Skill>
 </LanguageData>

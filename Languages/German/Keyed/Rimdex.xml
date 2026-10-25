@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>Rimdex</MOWiki_Title>
@@ -172,6 +172,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AnySource>Alle Quellen</MOWiki_AnySource>
+  <MOWiki_AnyTech>Alle Tech-Stufen</MOWiki_AnyTech>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -617,6 +618,7 @@
   <MOWiki_Compare_Other>Weitere Werte</MOWiki_Compare_Other>
   <MOWiki_Compare_Shot>Was es verschiesst</MOWiki_Compare_Shot>
   <MOWiki_Sort_None>Sortierung</MOWiki_Sort_None>
+  <MOWiki_Sort_Tech>Tech-Stufe</MOWiki_Sort_Tech>
   <MOWiki_Spawn>Setzen</MOWiki_Spawn>
   <MOWiki_Spawn_Stack>Stapel setzen</MOWiki_Spawn_Stack>
   <MOWiki_Spawn_Tool>{0} setzen</MOWiki_Spawn_Tool>
@@ -635,4 +637,51 @@
   <MOWiki_Chain_Empty>Von hier aus geht es nicht weiter.</MOWiki_Chain_Empty>
   <MOWiki_Work_Type>Arbeitsart</MOWiki_Work_Type>
   <MOWiki_Work_Skill>Faehigkeit</MOWiki_Work_Skill>
+  <MOWiki_Vault_Head>Obsidian-Tresor</MOWiki_Vault_Head>
+  <MOWiki_Vault_Write>Tresor jetzt schreiben</MOWiki_Vault_Write>
+  <MOWiki_Vault_Auto>Bei geaenderter Modliste neu schreiben</MOWiki_Vault_Auto>
+  <MOWiki_Vault_Done>{0} Dateien geschrieben, {1} entfernt, {2} ms</MOWiki_Vault_Done>
+  <MOWiki_Vault_Failed>Konnte nicht schreiben: {0}</MOWiki_Vault_Failed>
+  <MOWiki_Vault_Stale>Die Modliste hat sich seit dem letzten Schreiben geaendert.</MOWiki_Vault_Stale>
+  <MOWiki_Vault_NoPath>Kein Ordner angegeben.</MOWiki_Vault_NoPath>
+  <MOWiki_Vault_Source>Kommt aus</MOWiki_Vault_Source>
+  <MOWiki_Research_Needs>Braucht vorher</MOWiki_Research_Needs>
+  <MOWiki_Research_Unlocks>Schaltet frei</MOWiki_Research_Unlocks>
+  <MOWiki_Vault_Working>Rimdex schreibt den Obsidian-Tresor...</MOWiki_Vault_Working>
+  <MOWiki_Yes>Ja</MOWiki_Yes>
+  <MOWiki_To>bis</MOWiki_To>
+  <MOWiki_Unit_Days>T</MOWiki_Unit_Days>
+  <MOWiki_Unit_Degrees>C</MOWiki_Unit_Degrees>
+  <MOWiki_Plant_Section>Anbau</MOWiki_Plant_Section>
+  <MOWiki_Plant_GrowTime>Wachstumsdauer</MOWiki_Plant_GrowTime>
+  <MOWiki_Plant_Lifespan>Lebensdauer</MOWiki_Plant_Lifespan>
+  <MOWiki_Plant_Yield>Ernte</MOWiki_Plant_Yield>
+  <MOWiki_Plant_HarvestAt>Erntbar ab</MOWiki_Plant_HarvestAt>
+  <MOWiki_Plant_HarvestWork>Arbeit zum Ernten</MOWiki_Plant_HarvestWork>
+  <MOWiki_Plant_Fertility>Noetige Fruchtbarkeit</MOWiki_Plant_Fertility>
+  <MOWiki_Plant_FertilityUse>Fruchtbarkeitseinfluss</MOWiki_Plant_FertilityUse>
+  <MOWiki_Plant_Ignored>Egal</MOWiki_Plant_Ignored>
+  <MOWiki_Plant_Light>Noetiges Licht</MOWiki_Plant_Light>
+  <MOWiki_Plant_Dark>Stirbt im Licht</MOWiki_Plant_Dark>
+  <MOWiki_Plant_Roofed>Waechst ohne Sonne</MOWiki_Plant_Roofed>
+  <MOWiki_Plant_Optimal>Beste Temperatur</MOWiki_Plant_Optimal>
+  <MOWiki_Plant_Survives>Waechst zwischen</MOWiki_Plant_Survives>
+  <MOWiki_Plant_Cold>Tiefste gute Temperatur</MOWiki_Plant_Cold>
+  <MOWiki_Plant_Warm>Hoechste gute Temperatur</MOWiki_Plant_Warm>
+  <MOWiki_Plant_SowWork>Arbeit zum Saeen</MOWiki_Plant_SowWork>
+  <MOWiki_Plant_SowSkill>Pflanzen-Faehigkeit</MOWiki_Plant_SowSkill>
+  <MOWiki_Plant_SowIn>Anbau in</MOWiki_Plant_SowIn>
+  <MOWiki_Plant_Where_Ground>Erde</MOWiki_Plant_Where_Ground>
+  <MOWiki_Plant_Where_Hydroponic>Hydrokultur</MOWiki_Plant_Where_Hydroponic>
+  <MOWiki_Plant_Where_Decorative>Zierpflanze</MOWiki_Plant_Where_Decorative>
+  <MOWiki_Plant_Purpose>Zweck</MOWiki_Plant_Purpose>
+  <MOWiki_Plant_Purpose_Food>Nahrung</MOWiki_Plant_Purpose_Food>
+  <MOWiki_Plant_Purpose_Health>Medizin</MOWiki_Plant_Purpose_Health>
+  <MOWiki_Plant_Purpose_Beauty>Schoenheit</MOWiki_Plant_Purpose_Beauty>
+  <MOWiki_Plant_Cave>Hoehlenpflanze</MOWiki_Plant_Cave>
+  <MOWiki_Implant_Section>Einbau in einen Pawn</MOWiki_Implant_Section>
+  <MOWiki_Implant_Part>Koerperteil</MOWiki_Implant_Part>
+  <MOWiki_Implant_Efficiency>Wirkungsgrad</MOWiki_Implant_Efficiency>
+  <MOWiki_Implant_Work>Arbeit fuer die Operation</MOWiki_Implant_Work>
+  <MOWiki_Implant_Success>Erfolgschance</MOWiki_Implant_Success>
 </LanguageData>

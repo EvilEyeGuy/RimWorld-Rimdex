@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>Rimdex</MOWiki_Title>
@@ -172,6 +172,7 @@
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
   <MOWiki_AnySource>Any source</MOWiki_AnySource>
+  <MOWiki_AnyTech>Any tech level</MOWiki_AnyTech>
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
@@ -617,6 +618,7 @@
   <MOWiki_Compare_Other>Other values</MOWiki_Compare_Other>
   <MOWiki_Compare_Shot>What it fires</MOWiki_Compare_Shot>
   <MOWiki_Sort_None>Sort by</MOWiki_Sort_None>
+  <MOWiki_Sort_Tech>Tech level</MOWiki_Sort_Tech>
   <MOWiki_Spawn>Spawn</MOWiki_Spawn>
   <MOWiki_Spawn_Stack>Spawn stack</MOWiki_Spawn_Stack>
   <MOWiki_Spawn_Tool>Place {0}</MOWiki_Spawn_Tool>
@@ -635,4 +637,51 @@
   <MOWiki_Chain_Empty>Nothing to follow from here.</MOWiki_Chain_Empty>
   <MOWiki_Work_Type>Worked by</MOWiki_Work_Type>
   <MOWiki_Work_Skill>Skill used</MOWiki_Work_Skill>
+  <MOWiki_Vault_Head>Obsidian vault</MOWiki_Vault_Head>
+  <MOWiki_Vault_Write>Write vault now</MOWiki_Vault_Write>
+  <MOWiki_Vault_Auto>Rewrite when the mod list changed</MOWiki_Vault_Auto>
+  <MOWiki_Vault_Done>{0} files written, {1} removed, {2} ms</MOWiki_Vault_Done>
+  <MOWiki_Vault_Failed>Could not write: {0}</MOWiki_Vault_Failed>
+  <MOWiki_Vault_Stale>The mod list changed since the last export.</MOWiki_Vault_Stale>
+  <MOWiki_Vault_NoPath>No folder set.</MOWiki_Vault_NoPath>
+  <MOWiki_Vault_Source>Comes from</MOWiki_Vault_Source>
+  <MOWiki_Research_Needs>Needs first</MOWiki_Research_Needs>
+  <MOWiki_Research_Unlocks>Unlocks</MOWiki_Research_Unlocks>
+  <MOWiki_Vault_Working>Rimdex is writing the Obsidian vault...</MOWiki_Vault_Working>
+  <MOWiki_Yes>Yes</MOWiki_Yes>
+  <MOWiki_To>to</MOWiki_To>
+  <MOWiki_Unit_Days>d</MOWiki_Unit_Days>
+  <MOWiki_Unit_Degrees>C</MOWiki_Unit_Degrees>
+  <MOWiki_Plant_Section>Growing</MOWiki_Plant_Section>
+  <MOWiki_Plant_GrowTime>Grow time</MOWiki_Plant_GrowTime>
+  <MOWiki_Plant_Lifespan>Lifespan</MOWiki_Plant_Lifespan>
+  <MOWiki_Plant_Yield>Harvest</MOWiki_Plant_Yield>
+  <MOWiki_Plant_HarvestAt>Harvest from</MOWiki_Plant_HarvestAt>
+  <MOWiki_Plant_HarvestWork>Work to harvest</MOWiki_Plant_HarvestWork>
+  <MOWiki_Plant_Fertility>Fertility needed</MOWiki_Plant_Fertility>
+  <MOWiki_Plant_FertilityUse>Fertility sensitivity</MOWiki_Plant_FertilityUse>
+  <MOWiki_Plant_Ignored>Ignored</MOWiki_Plant_Ignored>
+  <MOWiki_Plant_Light>Light needed</MOWiki_Plant_Light>
+  <MOWiki_Plant_Dark>Dies in light</MOWiki_Plant_Dark>
+  <MOWiki_Plant_Roofed>Grows without sunlight</MOWiki_Plant_Roofed>
+  <MOWiki_Plant_Optimal>Best temperature</MOWiki_Plant_Optimal>
+  <MOWiki_Plant_Survives>Grows between</MOWiki_Plant_Survives>
+  <MOWiki_Plant_Cold>Lowest good temperature</MOWiki_Plant_Cold>
+  <MOWiki_Plant_Warm>Highest good temperature</MOWiki_Plant_Warm>
+  <MOWiki_Plant_SowWork>Work to sow</MOWiki_Plant_SowWork>
+  <MOWiki_Plant_SowSkill>Plants skill</MOWiki_Plant_SowSkill>
+  <MOWiki_Plant_SowIn>Sow in</MOWiki_Plant_SowIn>
+  <MOWiki_Plant_Where_Ground>Soil</MOWiki_Plant_Where_Ground>
+  <MOWiki_Plant_Where_Hydroponic>Hydroponics</MOWiki_Plant_Where_Hydroponic>
+  <MOWiki_Plant_Where_Decorative>Decoration</MOWiki_Plant_Where_Decorative>
+  <MOWiki_Plant_Purpose>Purpose</MOWiki_Plant_Purpose>
+  <MOWiki_Plant_Purpose_Food>Food</MOWiki_Plant_Purpose_Food>
+  <MOWiki_Plant_Purpose_Health>Medicine</MOWiki_Plant_Purpose_Health>
+  <MOWiki_Plant_Purpose_Beauty>Beauty</MOWiki_Plant_Purpose_Beauty>
+  <MOWiki_Plant_Cave>Cave plant</MOWiki_Plant_Cave>
+  <MOWiki_Implant_Section>Installed into a pawn</MOWiki_Implant_Section>
+  <MOWiki_Implant_Part>Body part</MOWiki_Implant_Part>
+  <MOWiki_Implant_Efficiency>Part efficiency</MOWiki_Implant_Efficiency>
+  <MOWiki_Implant_Work>Surgery work</MOWiki_Implant_Work>
+  <MOWiki_Implant_Success>Surgery success</MOWiki_Implant_Success>
 </LanguageData>

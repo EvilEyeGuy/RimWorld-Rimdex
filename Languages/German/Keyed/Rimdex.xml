@@ -684,4 +684,8 @@
   <MOWiki_Implant_Efficiency>Wirkungsgrad</MOWiki_Implant_Efficiency>
   <MOWiki_Implant_Work>Arbeit fuer die Operation</MOWiki_Implant_Work>
   <MOWiki_Implant_Success>Erfolgschance</MOWiki_Implant_Success>
+  <MOWiki_Button_Inspect>Rimdex-Knopf in der Infoleiste</MOWiki_Button_Inspect>
+  <MOWiki_Button_InspectTip>Der kleine Knopf neben dem Namen eines ausgewaehlten Dings, links unten.</MOWiki_Button_InspectTip>
+  <MOWiki_Button_InfoCard>Rimdex-Knopf auf der Infokarte</MOWiki_Button_InfoCard>
+  <MOWiki_Button_InfoCardTip>Der kleine Knopf im Fenster, das sich mit dem i-Zeichen oeffnet.</MOWiki_Button_InfoCardTip>
 </LanguageData>

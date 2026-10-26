@@ -684,4 +684,8 @@
   <MOWiki_Implant_Efficiency>Part efficiency</MOWiki_Implant_Efficiency>
   <MOWiki_Implant_Work>Surgery work</MOWiki_Implant_Work>
   <MOWiki_Implant_Success>Surgery success</MOWiki_Implant_Success>
+  <MOWiki_Button_Inspect>Rimdex button on the inspect panel</MOWiki_Button_Inspect>
+  <MOWiki_Button_InspectTip>The small button next to the name of a selected thing, bottom left.</MOWiki_Button_InspectTip>
+  <MOWiki_Button_InfoCard>Rimdex button on the info card</MOWiki_Button_InfoCard>
+  <MOWiki_Button_InfoCardTip>The small button in the window that opens with the i symbol.</MOWiki_Button_InfoCardTip>
 </LanguageData>

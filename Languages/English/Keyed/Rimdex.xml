@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>Rimdex</MOWiki_Title>
@@ -28,6 +28,16 @@
   <MOWiki_Kind_Tithe>Imperial tithe</MOWiki_Kind_Tithe>
   <MOWiki_Kind_Assembled>Fitted at</MOWiki_Kind_Assembled>
   <MOWiki_MadeFrom>Made from</MOWiki_MadeFrom>
+  <MOWiki_Found>Where it turns up</MOWiki_Found>
+  <MOWiki_Plan_Kind>Layout</MOWiki_Plan_Kind>
+  <MOWiki_Plan_Tech>Tech level</MOWiki_Plan_Tech>
+  <MOWiki_Plan_Factions>Factions</MOWiki_Plan_Factions>
+  <MOWiki_Plan_Defenders>Defender points</MOWiki_Plan_Defenders>
+  <MOWiki_Plan_Inhabitants>Who lives there</MOWiki_Plan_Inhabitants>
+  <MOWiki_Plan_Loot>What you can find there</MOWiki_Plan_Loot>
+  <MOWiki_Plan_Buildings>What stands there</MOWiki_Plan_Buildings>
+  <MOWiki_Plan_Places>In these places</MOWiki_Plan_Places>
+  <MOWiki_Plan_Lives>Lives in these places</MOWiki_Plan_Lives>
   <MOWiki_WhileWorn>While worn</MOWiki_WhileWorn>
   <MOWiki_WhileEquipped>While equipped</MOWiki_WhileEquipped>
   <MOWiki_Title_Court>Court it needs</MOWiki_Title_Court>
@@ -235,6 +245,23 @@
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Tab_About>Overview</MOWiki_Tab_About>
+  <MOWiki_Tab_More>More</MOWiki_Tab_More>
+  <MOWiki_Rank_Place>Place {0}</MOWiki_Rank_Place>
+  <MOWiki_Rank_Sort>Sort the list by this</MOWiki_Rank_Sort>
+  <MOWiki_Stat_Layer>Layer</MOWiki_Stat_Layer>
+  <MOWiki_Stat_Rot>Spoils in</MOWiki_Stat_Rot>
+  <MOWiki_Stat_Revenge>Fights back</MOWiki_Stat_Revenge>
+  <MOWiki_Stat_Gestation>Gestation</MOWiki_Stat_Gestation>
+  <MOWiki_Stat_Diet>Diet</MOWiki_Stat_Diet>
+  <MOWiki_Filter_Weapon>Weapon</MOWiki_Filter_Weapon>
+  <MOWiki_Filter_Apparel>Apparel</MOWiki_Filter_Apparel>
+  <MOWiki_Filter_Food>Edible</MOWiki_Filter_Food>
+  <MOWiki_Filter_Built>Built</MOWiki_Filter_Built>
+  <MOWiki_Filter_Traded>Traded</MOWiki_Filter_Traded>
+  <MOWiki_Filter_OnMap>On the map</MOWiki_Filter_OnMap>
+  <MOWiki_Filter_Pinned>Pinned</MOWiki_Filter_Pinned>
+  <MOWiki_Similar>Similar</MOWiki_Similar>
   <MOWiki_SearchPage>Search this page ...</MOWiki_SearchPage>
   <MOWiki_SoldBy>Sold by</MOWiki_SoldBy>
   <MOWiki_BoughtBy>Bought by</MOWiki_BoughtBy>
@@ -340,6 +367,7 @@
   <MOWiki_TraderCaravan>{0} caravan</MOWiki_TraderCaravan>
   <MOWiki_TraderOf>{0} ({1})</MOWiki_TraderOf>
   <MOWiki_Page_Structure>Structure</MOWiki_Page_Structure>
+  <MOWiki_Page_Settlement>Settlement type</MOWiki_Page_Settlement>
   <MOWiki_Browse_Structures>Structures</MOWiki_Browse_Structures>
   <MOWiki_Structure_Size>Footprint</MOWiki_Structure_Size>
   <MOWiki_Structure_Cells>Placed tiles</MOWiki_Structure_Cells>
@@ -688,4 +716,29 @@
   <MOWiki_Button_InspectTip>The small button next to the name of a selected thing, bottom left.</MOWiki_Button_InspectTip>
   <MOWiki_Button_InfoCard>Rimdex button on the info card</MOWiki_Button_InfoCard>
   <MOWiki_Button_InfoCardTip>The small button in the window that opens with the i symbol.</MOWiki_Button_InfoCardTip>
+  <MOWiki_Cbf_Field>Field</MOWiki_Cbf_Field>
+  <MOWiki_Cbf_Type>Type</MOWiki_Cbf_Type>
+  <MOWiki_Cbf_Def>Def</MOWiki_Cbf_Def>
+  <MOWiki_Cbf_Help>Help</MOWiki_Cbf_Help>
+  <MOWiki_Cbf_Section>Section</MOWiki_Cbf_Section>
+  <MOWiki_Cbf_List>list</MOWiki_Cbf_List>
+  <MOWiki_Cbf_Facts>Details</MOWiki_Cbf_Facts>
+  <MOWiki_Cbf_PointsTo>Points to {0}</MOWiki_Cbf_PointsTo>
+  <MOWiki_Cbf_PartOf>Part of</MOWiki_Cbf_PartOf>
+  <MOWiki_Cbf_Together>Works with</MOWiki_Cbf_Together>
+  <MOWiki_Cbf_Fields>Fields</MOWiki_Cbf_Fields>
+  <MOWiki_Cbf_Types>Types</MOWiki_Cbf_Types>
+  <MOWiki_Cbf_UsedBy>Used by</MOWiki_Cbf_UsedBy>
+  <MOWiki_Cbf_Read>Read on</MOWiki_Cbf_Read>
+  <MOWiki_Cbf_Back>Back</MOWiki_Cbf_Back>
+  <MOWiki_Cbf_Next>Next: {0}</MOWiki_Cbf_Next>
+  <MOWiki_Cbf_Wiki>Wiki</MOWiki_Cbf_Wiki>
+  <MOWiki_Cbf_Page>Full page</MOWiki_Cbf_Page>
+  <MOWiki_Cbf_Count>{0} fields</MOWiki_Cbf_Count>
+  <MOWiki_Cbf_NoText>There is no description for this entry yet.</MOWiki_Cbf_NoText>
+  <MOWiki_Cbf_InGame>In this game ({0})</MOWiki_Cbf_InGame>
+  <MOWiki_Cbf_Values>Set values</MOWiki_Cbf_Values>
+  <MOWiki_Cbf_PointsAt>Points at</MOWiki_Cbf_PointsAt>
+  <MOWiki_Cbf_Optional>can inherit</MOWiki_Cbf_Optional>
+  <MOWiki_Cbf_More>+{0} more</MOWiki_Cbf_More>
 </LanguageData>

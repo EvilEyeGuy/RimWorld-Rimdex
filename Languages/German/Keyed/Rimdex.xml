@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MOWiki_Title>Rimdex</MOWiki_Title>
@@ -28,6 +28,16 @@
   <MOWiki_Kind_Tithe>Abgabe ans Imperium</MOWiki_Kind_Tithe>
   <MOWiki_Kind_Assembled>Angefertigt an</MOWiki_Kind_Assembled>
   <MOWiki_MadeFrom>Hergestellt aus</MOWiki_MadeFrom>
+  <MOWiki_Found>Wo es zu finden ist</MOWiki_Found>
+  <MOWiki_Plan_Kind>Grundriss</MOWiki_Plan_Kind>
+  <MOWiki_Plan_Tech>Technikstufe</MOWiki_Plan_Tech>
+  <MOWiki_Plan_Factions>Fraktionen</MOWiki_Plan_Factions>
+  <MOWiki_Plan_Defenders>Verteidigerpunkte</MOWiki_Plan_Defenders>
+  <MOWiki_Plan_Inhabitants>Wer dort lebt</MOWiki_Plan_Inhabitants>
+  <MOWiki_Plan_Loot>Was dort zu finden ist</MOWiki_Plan_Loot>
+  <MOWiki_Plan_Buildings>Was dort steht</MOWiki_Plan_Buildings>
+  <MOWiki_Plan_Places>An diesen Orten</MOWiki_Plan_Places>
+  <MOWiki_Plan_Lives>Lebt an diesen Orten</MOWiki_Plan_Lives>
   <MOWiki_WhileWorn>Beim Tragen</MOWiki_WhileWorn>
   <MOWiki_WhileEquipped>In der Hand</MOWiki_WhileEquipped>
   <MOWiki_Title_Court>Hofstaat, den er braucht</MOWiki_Title_Court>
@@ -235,6 +245,23 @@
 
 
   <!-- Voraussetzungen an Rezept- und Prozessseiten -->
+  <MOWiki_Tab_About>Überblick</MOWiki_Tab_About>
+  <MOWiki_Tab_More>Mehr</MOWiki_Tab_More>
+  <MOWiki_Rank_Place>Platz {0}</MOWiki_Rank_Place>
+  <MOWiki_Rank_Sort>Liste so sortieren</MOWiki_Rank_Sort>
+  <MOWiki_Stat_Layer>Ebene</MOWiki_Stat_Layer>
+  <MOWiki_Stat_Rot>Verdirbt in</MOWiki_Stat_Rot>
+  <MOWiki_Stat_Revenge>Wehrt sich</MOWiki_Stat_Revenge>
+  <MOWiki_Stat_Gestation>Tragzeit</MOWiki_Stat_Gestation>
+  <MOWiki_Stat_Diet>Nahrung</MOWiki_Stat_Diet>
+  <MOWiki_Filter_Weapon>Waffe</MOWiki_Filter_Weapon>
+  <MOWiki_Filter_Apparel>Kleidung</MOWiki_Filter_Apparel>
+  <MOWiki_Filter_Food>Essbar</MOWiki_Filter_Food>
+  <MOWiki_Filter_Built>Gebaut</MOWiki_Filter_Built>
+  <MOWiki_Filter_Traded>Gehandelt</MOWiki_Filter_Traded>
+  <MOWiki_Filter_OnMap>Auf der Karte</MOWiki_Filter_OnMap>
+  <MOWiki_Filter_Pinned>Angeheftet</MOWiki_Filter_Pinned>
+  <MOWiki_Similar>Ähnlich</MOWiki_Similar>
   <MOWiki_SearchPage>Auf dieser Seite suchen ...</MOWiki_SearchPage>
   <MOWiki_SoldBy>Wird verkauft von</MOWiki_SoldBy>
   <MOWiki_BoughtBy>Wird angekauft von</MOWiki_BoughtBy>
@@ -340,6 +367,7 @@
   <MOWiki_TraderCaravan>Karawane: {0}</MOWiki_TraderCaravan>
   <MOWiki_TraderOf>{0} ({1})</MOWiki_TraderOf>
   <MOWiki_Page_Structure>Struktur</MOWiki_Page_Structure>
+  <MOWiki_Page_Settlement>Ortsart</MOWiki_Page_Settlement>
   <MOWiki_Browse_Structures>Strukturen</MOWiki_Browse_Structures>
   <MOWiki_Structure_Size>Grundfläche</MOWiki_Structure_Size>
   <MOWiki_Structure_Cells>Belegte Felder</MOWiki_Structure_Cells>
@@ -688,4 +716,29 @@
   <MOWiki_Button_InspectTip>Der kleine Knopf neben dem Namen eines ausgewaehlten Dings, links unten.</MOWiki_Button_InspectTip>
   <MOWiki_Button_InfoCard>Rimdex-Knopf auf der Infokarte</MOWiki_Button_InfoCard>
   <MOWiki_Button_InfoCardTip>Der kleine Knopf im Fenster, das sich mit dem i-Zeichen oeffnet.</MOWiki_Button_InfoCardTip>
+  <MOWiki_Cbf_Field>Feld</MOWiki_Cbf_Field>
+  <MOWiki_Cbf_Type>Typ</MOWiki_Cbf_Type>
+  <MOWiki_Cbf_Def>Def</MOWiki_Cbf_Def>
+  <MOWiki_Cbf_Help>Hilfe</MOWiki_Cbf_Help>
+  <MOWiki_Cbf_Section>Abschnitt</MOWiki_Cbf_Section>
+  <MOWiki_Cbf_List>Liste</MOWiki_Cbf_List>
+  <MOWiki_Cbf_Facts>Angaben</MOWiki_Cbf_Facts>
+  <MOWiki_Cbf_PointsTo>Zeigt auf {0}</MOWiki_Cbf_PointsTo>
+  <MOWiki_Cbf_PartOf>Steht in</MOWiki_Cbf_PartOf>
+  <MOWiki_Cbf_Together>Wirkt zusammen mit</MOWiki_Cbf_Together>
+  <MOWiki_Cbf_Fields>Felder</MOWiki_Cbf_Fields>
+  <MOWiki_Cbf_Types>Typen</MOWiki_Cbf_Types>
+  <MOWiki_Cbf_UsedBy>Wird benutzt von</MOWiki_Cbf_UsedBy>
+  <MOWiki_Cbf_Read>Weiterlesen</MOWiki_Cbf_Read>
+  <MOWiki_Cbf_Back>Zurück</MOWiki_Cbf_Back>
+  <MOWiki_Cbf_Next>Weiter: {0}</MOWiki_Cbf_Next>
+  <MOWiki_Cbf_Wiki>Wiki</MOWiki_Cbf_Wiki>
+  <MOWiki_Cbf_Page>Ganze Seite</MOWiki_Cbf_Page>
+  <MOWiki_Cbf_Count>{0} Felder</MOWiki_Cbf_Count>
+  <MOWiki_Cbf_NoText>Für diesen Eintrag gibt es noch keine Beschreibung.</MOWiki_Cbf_NoText>
+  <MOWiki_Cbf_InGame>Im Spiel ({0})</MOWiki_Cbf_InGame>
+  <MOWiki_Cbf_Values>Gesetzte Werte</MOWiki_Cbf_Values>
+  <MOWiki_Cbf_PointsAt>Zeigt auf</MOWiki_Cbf_PointsAt>
+  <MOWiki_Cbf_Optional>kann erben</MOWiki_Cbf_Optional>
+  <MOWiki_Cbf_More>+{0} weitere</MOWiki_Cbf_More>
 </LanguageData>
